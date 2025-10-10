@@ -1,0 +1,5 @@
+Implement B-Tree for indexing
+TAsks:
+    Implement a B -tree in python(order m = 3) with:
+         insert and search operations
+    Test with : insert[10,20,5,6,12,30], search 6.
